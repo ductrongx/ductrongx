@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,0a0f1c,001f3f&height=250&section=header&text=Hey!%20I%20am%20Duc&fontSize=60&fontColor=ffffff&desc=Software%20and%20AI%20Engineer&descSize=24&descColor=00BFFF&fontAlignY=35&descAlignY=60&animation=twinkling" alt="Cyber AI Banner" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,25:0F172A,55:111827,100:020617&text=NGUYEN%20TRONG%20DUC&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Backend%20Engineer%20•%20AI%20•%20Distributed%20Systems&descColor=38BDF8&descSize=22&descAlignY=62&animation=fadeIn"
+  />
 </p>
-
-<h3 align="center">Software & AI Engineer | Backend Development | Cloud Infrastructure</h3>
 
 <h4 align="center">I am a Software & AI Engineer focusing on building robust system architectures, scalable AI backends, and production-ready MLOps pipelines. I prioritize clean code, high-throughput designs, and integrating Large Language Models (LLMs) into real-world applications. Always eager to optimize infrastructure and solve complex logic problems.</h4>
 <br>
