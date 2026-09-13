@@ -40,14 +40,14 @@
 </p>
 <br>
 
-<h1 align="center">Featured Projects 🚀 </h1>
-<!-- <h4 align="center">
+<!-- <h1 align="center">Featured Projects 🚀 </h1>
+<h4 align="center">
   ⚡ <a href="#"><b>Cloud Platform Automated Failover System</b></a>: Resilient, multi-region GCP infrastructure using Terraform.<br><br>
   🧠 <a href="#"><b>Urban Traffic Digital Twin Simulation</b></a>: Dynamic simulation engine integrating real-time API processing.<br><br>
   🎯 <a href="#"><b>Automated Programming Skills Assessment (APSAS)</b></a>: High-throughput, low-latency evaluation platform.<br><br>
   💬 <a href="#"><b>WeConnect</b></a>: Scalable real-time messaging backend built with Spring Boot & Socket.io.
-</h4> -->
-<!-- <br>
+</h4> 
+<br>  -->
 
 <h1 align="center"> Statistical Data 📊 </h1>
 
@@ -58,7 +58,8 @@
       <td align="center"><b>Top Languages</b></td>
     </tr>
     <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentrongduc2005&theme=radical&hide_border=true" width="450"></td>
+      <td>  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=&preferLogin=false">    <img  alt="ductrongx's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ductrongx?cardType=level-alternate&theme=tokyonight&fontFamily=&preferLogin=false" />  </a></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ductrongx&theme=radical&hide_border=true" width="450"></td>
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyentrongduc2005&theme=radical" width="400"></td>
     </tr>
   </table>
@@ -68,7 +69,7 @@
 <br>
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer">
-</p>  --> 
+</p>  
 <h3 align="center"> Connect With Me: </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/trong-duc-swe" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
